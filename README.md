@@ -21,10 +21,9 @@ ________________________________________________________________________________
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 |![React - Medium](https://img.shields.io/badge/React-Medium-yellow?logo=react)|![WordPress - Medium](https://img.shields.io/badge/WordPress-Medium-yellow?logo=wordpress)|![MySQL - Medium](https://img.shields.io/badge/MySQL-Medium-yellow?logo=mysql)|![Figma - Low](https://img.shields.io/badge/Figma-Low-red?logo=figma)|               |
 
+  ![rui](https://user-images.githubusercontent.com/105239282/211639298-7d7ba122-f890-4948-82f8-6d5dc5dd6577.jpg)
 
-
-
-
+ 
 
 
 
