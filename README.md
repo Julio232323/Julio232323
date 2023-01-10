@@ -18,9 +18,9 @@ ________________________________________________________________________________
 
 ### My Stack:
 
-|![HTML5 - Avanced](https://img.shields.io/badge/HTML5-Avanced-2ea44f?logo=HTML5&logoColor=orange)|![CSS3 - Avanced](https://img.shields.io/badge/CSS3-Avanced-2ea44f?logo=CSS3&logoColor=blue)|![Bootstrap - Advanced](https://img.shields.io/badge/Bootstrap-Advanced-2ea44f?logo=Bootstrap)| ![Javascript - Medium](https://img.shields.io/badge/Javascript-Medium-yellow?logo=CSS3&logoColor=yellow)|![NodeJS - Medium](https://img.shields.io/badge/NodeJS-Medium-yellow?logo=node.js)|![GIT - Advanced](https://img.shields.io/badge/GIT-Advanced-2ea44f?logo=git)          
+|![HTML5 - Avanced](https://img.shields.io/badge/HTML5-Avanced-2ea44f?logo=HTML5&logoColor=orange)|![CSS3 - Avanced](https://img.shields.io/badge/CSS3-Avanced-2ea44f?logo=CSS3&logoColor=blue)|![Bootstrap - Advanced](https://img.shields.io/badge/Bootstrap-Advanced-2ea44f?logo=Bootstrap)| ![Javascript - Advanced](https://img.shields.io/badge/Javascript-Advanced-2ea44f?logo=CSS3&logoColor=yellow)|![NodeJS - Medium](https://img.shields.io/badge/NodeJS-Medium-yellow?logo=node.js)|![GIT - Advanced](https://img.shields.io/badge/GIT-Advanced-2ea44f?logo=git)          
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|![React - Medium](https://img.shields.io/badge/React-Medium-yellow?logo=react)|![WordPress - Medium](https://img.shields.io/badge/WordPress-Medium-yellow?logo=wordpress)|               |               |               |
+|![React - Medium](https://img.shields.io/badge/React-Medium-yellow?logo=react)|![WordPress - Medium](https://img.shields.io/badge/WordPress-Medium-yellow?logo=wordpress)|![MySQL - Medium](https://img.shields.io/badge/MySQL-Medium-yellow?logo=mysql)|![Figma - Low](https://img.shields.io/badge/Figma-Low-red?logo=figma)|               |
 
 
 
