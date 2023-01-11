@@ -17,15 +17,14 @@ ________________________________________________________________________________
 
 ### My Stack:
 ____________________________________________________________________________________________________________________________________________________________________
-|![HTML5 - Avanced](https://img.shields.io/badge/HTML5-Avanced-2ea44f?logo=HTML5&logoColor=orange)|![CSS3 - Avanced](https://img.shields.io/badge/CSS3-Avanced-2ea44f?logo=CSS3&logoColor=blue)|![Bootstrap - Advanced](https://img.shields.io/badge/Bootstrap-Advanced-2ea44f?logo=Bootstrap)| ![Javascript - Advanced](https://img.shields.io/badge/Javascript-Advanced-2ea44f?logo=CSS3&logoColor=yellow)|![NodeJS - Medium](https://img.shields.io/badge/NodeJS-Medium-yellow?logo=node.js)|![GIT - Advanced](https://img.shields.io/badge/GIT-Advanced-2ea44f?logo=git)          
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-|![React - Medium](https://img.shields.io/badge/React-Medium-yellow?logo=react)|![WordPress - Medium](https://img.shields.io/badge/WordPress-Medium-yellow?logo=wordpress)|![MySQL - Medium](https://img.shields.io/badge/MySQL-Medium-yellow?logo=mysql)|![Figma - Low](https://img.shields.io/badge/Figma-Low-red?logo=figma)|               |
+|![HTML5 - Avanced](https://img.shields.io/badge/HTML5-Avanced-2ea44f?logo=HTML5&logoColor=orange)|![CSS3 - Avanced](https://img.shields.io/badge/CSS3-Avanced-2ea44f?logo=CSS3&logoColor=blue)|![Bootstrap - Advanced](https://img.shields.io/badge/Bootstrap-Advanced-2ea44f?logo=Bootstrap)|![Tailwind CSS - Advanced](https://img.shields.io/badge/Tailwind_CSS-Advanced-2ea44f?logo=tailwindcss)|![Javascript - Advanced](https://img.shields.io/badge/Javascript-Advanced-2ea44f?logo=CSS3&logoColor=yellow)|![NodeJS - Medium](https://img.shields.io/badge/NodeJS-Medium-yellow?logo=node.js)          
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- 
+|![GIT - Advanced](https://img.shields.io/badge/GIT-Advanced-2ea44f?logo=git)|![React - Medium](https://img.shields.io/badge/React-Medium-yellow?logo=react)|![WordPress - Medium](https://img.shields.io/badge/WordPress-Medium-yellow?logo=wordpress)|![MySQL - Medium](https://img.shields.io/badge/MySQL-Medium-yellow?logo=mysql)|![Figma - Low](https://img.shields.io/badge/Figma-Low-red?logo=figma)              |
 
   ![rui](https://user-images.githubusercontent.com/105239282/211639298-7d7ba122-f890-4948-82f8-6d5dc5dd6577.jpg)
 
+
  
-
-
 
 
 
